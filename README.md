@@ -1,2 +1,1 @@
-# holbertonschool-zero_day
-README.md
+This is the root README
